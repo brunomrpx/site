@@ -1,0 +1,12 @@
+body {
+    font-family: 'Share Tech Mono';
+    background-color: #000;
+    color: #fff;
+    font-size: 120%;
+}
+
+#terminal mark {
+    background-color: inherit;
+    color: #008000;
+}
+
