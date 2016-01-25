@@ -1,7 +1,7 @@
 var finalhandler = require('finalhandler')
 var http = require('http')
 var serveStatic = require('serve-static');
-var port = 5000;
+var port = process.env.PORT || 5000;
 
 // Serve up public/ftp folder
 var serve = serveStatic('public', {'index': ['index.html']})
