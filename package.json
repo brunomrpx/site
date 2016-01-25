@@ -1,0 +1,17 @@
+{
+  "name": "site",
+  "version": "0.1.0",
+  "description": "My personal website",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brunomrpx/site"
+  },
+  "author": "Bruno Mayer Paixão <brunomrpx@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/brunomrpx/site/issues"
+  },
+  "homepage": "https://github.com/brunomrpx/site"
+}
